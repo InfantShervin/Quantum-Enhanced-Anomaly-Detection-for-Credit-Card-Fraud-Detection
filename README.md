@@ -22,7 +22,8 @@ python -m venv venv
 source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-## Dataset  
+## Dataset
+
 Utilizes Kaggle's Credit Card Fraud Detection dataset (284,807 transactions; 0.17% fraud rate).  
 Features include PCA components, amount, and time.  
 Preprocessing involves scaling and PCA-based quantum feature reduction.
