@@ -12,7 +12,7 @@ This project demonstrates a hybrid quantum-classical machine learning system for
 - Comprehensive evaluation with accuracy, precision, recall, and F1-score
 
 ## Installation
-
+```bash
 ### Clone the repository
 git clone https://github.com/InfantShervin/Quantum-Fraud-Detection.git
 cd quantum-fraud-detection
