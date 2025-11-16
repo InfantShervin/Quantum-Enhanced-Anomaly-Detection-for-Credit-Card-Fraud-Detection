@@ -29,4 +29,4 @@ Preprocessing involves scaling and PCA-based quantum feature reduction.
 
 ## Usage  
 Run the Jupyter notebook:  
-jupyter notebook notebooks/QC-TEMPLATE-1.ipynb
+jupyter notebook notebooks/QC Notebook.ipynb
